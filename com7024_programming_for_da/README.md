@@ -4,7 +4,7 @@ Performing Exploratory Data Analysis on a dataset containing residential propert
 ## Requirements
 - If working locally:
 	- Jupyter Notebook
-	- Python + required libraries (Pandas, Numpy, Scipy, Matplotlib, and Seaborn)
+	- Python3.10+ and required libraries (Pandas, Numpy, Scipy, Matplotlib, and Seaborn)
 - If working online:
-	- A Jupyter Notebook instance on a tool like Google Colab
-
+	- A Jupyter Notebook instance like Google Colab
+- The dataset (found at the root of this directory)
