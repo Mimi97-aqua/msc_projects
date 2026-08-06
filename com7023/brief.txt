@@ -1,0 +1,66 @@
+You have recently joined Urban Resource Intelligence (URI), a consultancy that
+advises local authorities on improving the efficiency, sustainability, and resilience
+of urban resource systems, including housing, utilities, and environmental services.
+As part of your induction, your Line Manager has asked you to complete a
+mathematical investigation to demonstrate your ability to apply a range of advanced
+mathematical techniques to a real-world analytics problem before progressing to more
+complex data science projects.
+
+The investigation is situated within the context of urban residential analytics, where
+city planners are seeking to better understand resource demand patterns, system
+stability, uncertainty, and behavioural differences across residential groups.
+Your work will involve applying concepts from Linear Algebra, Calculus, Probability,
+and Statistics to analyse different aspects of the system and to communicate findings
+clearly to non-technical stakeholders involved in policy and planning decisions.
+The initial stage of the investigation focuses on modelling steady-state resource
+demand across four interconnected residential zones within the city. The net daily
+demand (in standardised units) is modelled by the following system of equations:
+2𝑥1− 𝑥2 + 𝑥3 = 120
+− 𝑥1 + 3𝑥2− 𝑥4 = 150
+𝑥1 + 𝑥2 + 2𝑥3− 𝑥4 = 180
+− 𝑥2 + 𝑥3 + 2𝑥4 = 140
+where 𝑥1, 𝑥2, 𝑥3, 𝑥4 represent the average demand levels in each zone.
+You are expected to analyse this system using appropriate linear algebra techniques,
+determine whether a stable equilibrium exists, and interpret the resulting distribution
+in the context of urban planning and load balancing.
+
+Once the steady-state behaviour has been investigated, your manager asks you to
+analyse how demand changes over time within a high-density residential area. The
+rate of demand is modelled as a function of time ttt (hours) by:
+𝐷(𝑡) = 4𝑡3
+− 18𝑡2 + 24𝑡 + 90
+You should analyse this function to examine rates of change, identify periods of rapid
+increase or decrease, and determine any critical points. Your discussion should
+explain how such analysis supports peak-demand management and operational
+planning.
+
+During data collection, it is recognised that short-term forecasting errors are
+unavoidable due to behavioural variability and environmental factors. These errors are
+assumed to follow a normal distribution with a mean of 0 and a standard deviation of
+5 units.
+You are required to analyse this distribution to evaluate the likelihood of large
+deviations from expected demand levels and to interpret how these probabilities inform
+risk management and contingency planning.
+
+Finally, the investigation examines whether average daily resource consumption
+differs between residential building types, which is critical for designing targeted
+efficiency interventions.
+Daily average consumption data has been collected from three residential categories:
+• Apartments:
+16.8, 17.2, 16.5, 17.9, 18.1, 17.4, 16.9, 17.6
+• Terraced houses:
+• Detached houses:
+18.4, 18.9, 19.1, 18.7, 19.3, 18.6, 19.0, 18.8, 19.2, 18.5
+20.1, 19.7, 20.4, 19.9, 20.6, 20.2
+You should apply appropriate statistical techniques to determine whether mean
+consumption differs significantly between groups, clearly stating hypotheses,
+assumptions, and conclusions. Unequal sample sizes must be handled appropriately.
+Once all numerical analyses have been completed, you must critically evaluate the
+mathematical approaches used across the investigation. Your final report should
+reflect on:
+• Assumptions and limitations of the models
+• Reliability of conclusions under uncertainty
+• Practical implications for urban policy and planning
+The completed report must be written for non-technical stakeholders within Urban
+Resource Intelligence and should focus on the meaning and implications of the results,
+rather than procedural detail.

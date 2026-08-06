@@ -5,7 +5,7 @@ urban resource systems.
 
 ### About Files
 - `analysis.ipynb`: contains Python code with calculations and visualizations. Setup instructions are in the `Project Setup` section below.
-- `brief.pdf`: contains problem statement
+- `brief.txt`: contains problem statement
 - `report.pdf`: contains my report after investigation
 
 ### Project Setup
