@@ -1,0 +1,17 @@
+Having secured a junior position at a German real estate company, the data analyst manager has
+requested that you to perform exploratory data analysis, using Python, on a Berlin housing data
+set, with focus being on the price and total square foot variables, plus a further study on whether
+there is a correlation between living area and living square foot. The purpose of the study is to
+determine basic analytics to help predict possible housing market trends in the future within Berlin.
+Therefore, you are to correctly import the dataset i.e. BerlinHousing4049.csv and perform an
+initial basic statistical test on all variables, once ensuring all data types are correct. Initial process
+now completed, perform all appropriate pre-processing methodologies, which you deem necessary
+and then perform a further basic statistical test to demonstrate improvements from the pre-
+processing stage.
+Based upon the specific variables mentioned above, perform what you determine are appropriate
+investigations, with graphical representation, so that a meaningful study can be presented to your
+analysist manager. Full reasoning and justification is to be given for each screenshot section of
+code for all processes and chosen investigations.
+Additionally, write a clear and concise report to your analysist manager defining your investigation.
+Your report will include all relevant analysis methodologies undertaken, full reasoning for your
+chosen analysis techniques and recommendations.
