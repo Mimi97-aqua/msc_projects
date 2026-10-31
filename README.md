@@ -7,5 +7,5 @@ This repo contains the list of projects completed during my Data Science Master'
 - [COM7024 (Programming for Data Analytics)](https://github.com/Mimi97-aqua/msc_projects/tree/main/com7024): Performing EDA on a dataset containing data on residential property information in Berlin with the aim of using basic analytics to help predict possible housing market trends in the future within Berlin. This project assumes the role of a junior data analyst at a German real estate company.
 
 ### Semester 2
-- [COM7021 (Data Visualization)]():
+- [COM7021 (Data Visualization)](): Conducting analysis and producing a visualization report for a public transport and shared mobility servces company using Python and Tableau. The analysis explores how sustainable mobility performance varies across features like country and transportation mode as well as some performance goals the organization is particularly interested in such as high-demand cities and weak performing transport modes.
 - [COM7022 (Machine Learning)]():
