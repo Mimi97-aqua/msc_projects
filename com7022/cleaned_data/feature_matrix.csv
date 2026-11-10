@@ -28,6 +28,7 @@ price,category,available,sold
 21.91,Eau De Toilette,96,1831
 23.01,Eau De Toilette,5,2611
 14.95,Eau De Parfum,8,79
+29.99,Other,10,0
 11.99,Eau De Parfum,10,51
 11.99,Other,5,15
 6.65,Other,9,18882
@@ -162,6 +163,7 @@ price,category,available,sold
 59.99,Eau De Parfum,10,496
 54.99,Eau De Toilette,10,780
 21.8,Eau De Parfum,10,7
+29.97,Cologne,4,0
 10.91,Other,1,654
 59.97,Cologne,10,35
 29.13,Eau De Parfum,3,13
@@ -200,6 +202,7 @@ price,category,available,sold
 28.99,Eau De Toilette,10,7
 49.99,Eau De Toilette,2,3
 64.02,Eau De Toilette,2,10
+250.0,Eau De Parfum,9,0
 29.99,Eau De Parfum,10,25
 16.48,Eau De Toilette,10,24
 64.99,Eau De Parfum,10,15
@@ -207,6 +210,7 @@ price,category,available,sold
 32.13,Eau De Toilette,47,85
 153.0,Eau De Toilette,10,23
 22.0,Eau De Toilette,10,286
+89.97,Eau De Toilette,9,0
 16.26,Eau De Toilette,12,644
 24.45,Eau De Toilette,9,1691
 26.97,Eau De Toilette,33,424
@@ -319,6 +323,7 @@ price,category,available,sold
 114.99,Eau De Parfum,7,13
 74.48,Eau De Parfum,10,5
 33.99,Eau De Toilette,10,573
+20.0,Eau De Parfum,10,0
 15.0,Eau De Parfum,10,12
 20.0,Eau De Parfum,8,23
 20.0,Eau De Parfum,10,16
@@ -489,6 +494,7 @@ price,category,available,sold
 114.99,Eau De Toilette,10,539
 136.0,Eau De Toilette,5,51
 12.2,Eau De Toilette,10,5
+169.0,Eau De Parfum,9,0
 12.95,Eau De Parfum,10,594
 51.99,Eau De Toilette,10,73
 48.99,Eau De Toilette,10,30
